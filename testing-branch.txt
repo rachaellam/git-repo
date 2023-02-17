@@ -1,1 +1,2 @@
 new line
+added another line of nothing
